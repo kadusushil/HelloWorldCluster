@@ -1,6 +1,7 @@
-# Node JS training
+# Homework Assignment #6
 
-This repository is for sample training code for NodeJS
+In this repo, we have converted HelloWorld program into cluster. Following instructions remains same.
+From user point of view, nothing has changed except, user gets more perforamnce and faster response
 
 # HelloWorld API
 - Added API for /hello
